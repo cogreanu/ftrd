@@ -5,3 +5,7 @@
 a.out
 header.tmp
 .vscode
+
+# Intellij
+.idea
+ftrd.iml
